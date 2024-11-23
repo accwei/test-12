@@ -5,4 +5,9 @@ this is a test
 git clone
 ```
 this is test 2
+<<<<<<< HEAD
 modify by local
+=======
+this is test 3
+this is test 3+
+>>>>>>> 45f3c6a1a66acf359afc283e6a6003ddd4fa1ca6
